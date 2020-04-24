@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d201e5ec-906f-4994-97fe-5a163d6da90f" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1ZwEUJdFW7dtCCzPjr1ckV9ulOe" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunManager" selected="Cucumber java.All Features in: KWS-Supinfo">
+    <configuration name="All Features in: KWS-Supinfo" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="4" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$" />
+      <option name="GLUE" value="squash.tf_sample" />
+      <option name="MAIN_CLASS_NAME" value="cucumber.api.cli.Main" />
+      <module name="KWS-Supinfo" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm4SMFormatter" />
+      <option name="SUGGESTED_NAME" value="All Features in: KWS-Supinfo" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Feature: LoginGit" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="4" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/resources/tf_sample/LoginGit.feature" />
+      <option name="GLUE" value="squash.tf_sample" />
+      <option name="MAIN_CLASS_NAME" value="cucumber.api.cli.Main" />
+      <module name="KWS-Supinfo" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm4SMFormatter" />
+      <option name="SUGGESTED_NAME" value="Feature: LoginGit" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Feature: simple" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="4" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/resources/tf_sample/simple.feature" />
+      <option name="GLUE" value="squash.tf_sample" />
+      <option name="MAIN_CLASS_NAME" value="cucumber.api.cli.Main" />
+      <module name="KWS-Supinfo" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm4SMFormatter" />
+      <option name="SUGGESTED_NAME" value="Feature: simple" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Cucumber java.All Features in: KWS-Supinfo" />
+        <item itemvalue="Cucumber java.Feature: LoginGit" />
+        <item itemvalue="Cucumber java.Feature: simple" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d201e5ec-906f-4994-97fe-5a163d6da90f" name="Default Changelist" comment="" />
+      <created>1585741770931</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1585741770931</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="137" y="0" width="1092" height="738" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1587730952802">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="137" y="0" width="1092" height="738" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.738@0.0.1366.738" timestamp="1587730952802" />
+    <state x="463" y="124" key="FileChooserDialogImpl" timestamp="1587730951937">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="463" y="124" key="FileChooserDialogImpl/0.0.1366.738@0.0.1366.738" timestamp="1587730951937" />
+    <state width="1323" height="302" key="GridCell.Tab.0.bottom" timestamp="1587752448009">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1323" height="302" key="GridCell.Tab.0.bottom/0.0.1366.738@0.0.1366.738" timestamp="1587752448009" />
+    <state width="1323" height="302" key="GridCell.Tab.0.center" timestamp="1587752448009">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1323" height="302" key="GridCell.Tab.0.center/0.0.1366.738@0.0.1366.738" timestamp="1587752448009" />
+    <state width="1323" height="302" key="GridCell.Tab.0.left" timestamp="1587752448009">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1323" height="302" key="GridCell.Tab.0.left/0.0.1366.738@0.0.1366.738" timestamp="1587752448009" />
+    <state width="1323" height="302" key="GridCell.Tab.0.right" timestamp="1587752448009">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1323" height="302" key="GridCell.Tab.0.right/0.0.1366.738@0.0.1366.738" timestamp="1587752448009" />
+    <state x="213" y="24" key="Maven.ArtifactSearchDialog" timestamp="1587732502269">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="213" y="24" key="Maven.ArtifactSearchDialog/0.0.1366.738@0.0.1366.738" timestamp="1587732502269" />
+    <state x="379" y="193" key="com.intellij.ide.util.TipDialog" timestamp="1585760380194">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="379" y="193" key="com.intellij.ide.util.TipDialog/0.0.1366.738@0.0.1366.738" timestamp="1585760380194" />
+  </component>
+</project>

@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: org.squashtest.ta.plugin:squash-ta-plugin-cucumber:${ta.framework.version}">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/squashtest/ta/plugin/squash-ta-plugin-cucumber/${ta.framework.version}/squash-ta-plugin-cucumber-${ta.framework.version}.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/org/squashtest/ta/plugin/squash-ta-plugin-cucumber/${ta.framework.version}/squash-ta-plugin-cucumber-${ta.framework.version}-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/squashtest/ta/plugin/squash-ta-plugin-cucumber/${ta.framework.version}/squash-ta-plugin-cucumber-${ta.framework.version}-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
